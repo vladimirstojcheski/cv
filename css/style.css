@@ -354,6 +354,7 @@ body {
   background-color: #f8f9fa;
   border-radius: 8px;
   border-left: 4px solid #3498db;
+  margin-bottom: 12px;
 }
 
 .education-header {
@@ -390,6 +391,7 @@ body {
   line-height: 1.7;
   margin-top: 10px;
 }
+
 
 /* Competencies */
 .competencies-grid {
